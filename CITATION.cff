@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Group level concordance between NCO-04 and NCO-15"
+authors:
+  - family-names: "Ahmed"
+    given-names: "Ayesha"
+    affiliation: "TODO: add affiliation"
+  - family-names: "Wadhwa"
+    given-names: "Mansi"
+    affiliation: "TODO: add affiliation"
+  - family-names: "Mahajan"
+    given-names: "Kanika"
+    affiliation: "TODO: add affiliation"
+  - family-names: "Sharma"
+    given-names: "Anisha"
+    affiliation: "TODO: add affiliation"
+version: "1.0.0"
+date-released: "YYYY-MM-DD"  # TODO: fill in actual release date
+doi: ""  # TODO: add once Zenodo DOI is minted
+repository-code: "https://github.com/India-NCO-04-NCO-15-3-digit-concordance/concordance"
+license: "CC0-1.0"
+abstract: "TODO: add a short description of the dataset"
+keywords:
+  - "occupation classification"
+  - "concordance"
+  - "labor economics"
+  - "India"
+  - "NCO-04"
+  - "NCO-15"
