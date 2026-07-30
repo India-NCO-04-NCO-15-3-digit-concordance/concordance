@@ -1,6 +1,6 @@
 # Concordance at 3-digit between NCO 2004 and NCO 2015
 
-This repository contains the concordance between the NCO 2004 and the NCO 2015 at the 3-digit level. The documentation in the repository explains the methods used in constructing the concordance and instructions to use the concordance are laid out in this READ_ME as well as in the excel file. 
+This repository contains the concordance between the NCO 2004 and the NCO 2015 at the 3-digit level. The documentation in the repository explains the methods used in constructing the concordance and instructions to use the concordance are laid out in this READ_ME as well as in the excel file. Kindly use the citation for the dataset whenever used in any work.
 
 ## Instructions to use the concordance:
 
